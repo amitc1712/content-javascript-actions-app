@@ -1,6 +1,6 @@
 name: 'Hello world'
 description: 'Greet someone and record the time'
-input: # input parameters are stored as environment variables
+inputs: # input parameters are stored as environment variables
   who-to-greet: # id of input
   description: 'Who to greet'
   required: true
